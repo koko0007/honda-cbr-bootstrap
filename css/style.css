@@ -34,3 +34,13 @@ body{
 .grayscale{
     filter: grayscale(100%);
 }
+.orange{
+    color:  #E76F51;
+    ;
+}
+.star-color{
+    color: #E76F51;
+}
+.star-blank{
+    color: #E76F51;
+}
