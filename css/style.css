@@ -44,3 +44,9 @@ body{
 .star-blank{
     color: #E76F51;
 }
+/* accordion paragraph */
+.accordion-paragraph{
+    color: #7E848C;
+    font-size: 16px;
+    font-weight: normal;
+}
